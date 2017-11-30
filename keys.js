@@ -5,7 +5,7 @@ var twitterKeys = {
   consumer_secret: '4MZIx8erPQBvK3ihmi6O03O1Avtw0WQ62SfcOVmPhk7L5F98us',
   access_token_key: '88570299-gVngCSQ37uFrgBmq46O56XaCCo5sXFaYd0GZI1NJY',
   access_token_secret: '4cKSaibYWEGHDGqVCifrSO11Hw7Ep9bhyINkKMqR8cdv6',
-};
+}
 
 var spotifyKeys = {
 	client_id: '4259fd2b3f27411288933134b05c1787',
